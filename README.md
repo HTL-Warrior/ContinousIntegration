@@ -127,3 +127,13 @@ class CalculatorTest {
 
 ---
 This exercise provides a foundation for building more complex applications and ensures robust testing practices for Java projects.
+
+
+## Testing and CI/CD Demo!
+
+This repository is a demo of how to use GitHub Actions to run tests and build a Java project!
+
+[![Java CI](https://github.com/HTL-Warrior/ContinousIntegration/actions/workflows/ci.yml/badge.svg)](https://github.com/HTL-Warrior/ContinousIntegration/actions/workflows/ci.yml)
+
+
+
